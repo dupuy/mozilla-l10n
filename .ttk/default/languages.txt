@@ -15,7 +15,7 @@
 # Aliases allow for the storing of obsolete, more correct or other names:
 #    hi-IN -> hi
 #
-# The file is tab delimetted in the form:
+# The file is tab delimited in the form:
 #    # Comment
 #    Pootle Name[\t]Upstream Name[\t]Aliases
 #
